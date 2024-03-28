@@ -8,7 +8,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarquesLima&layout=donut)](https://github.com/GabrielMarquesLima/github-readme-stats)
   
 <div/>
-## Tecnologias que eu uso no meu dia a dia
+<h2>Tecnologias que eu uso no meu dia a dia</h2>
 
 <div style="display: inline-block;">
   <h4>Sistemas operacionais:</h4>
