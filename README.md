@@ -2,12 +2,13 @@
 
 - 📫 Contato: gabrielmarquesprofissional2005@gmail.com
 <br>
+
 <div>
   
   ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarquesLima&show_icons=true&theme=gruvbox&count_private=true)
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarquesLima&layout=donut)](https://github.com/GabrielMarquesLima/github-readme-stats)
 </div>
+
 <h2>Tecnologias que eu uso no meu dia a dia</h2>
 
 <div style="display: inline-block;">
